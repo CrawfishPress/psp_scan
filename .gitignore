@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+dist/
+pics/out/
+pics/mask.*
+pics/blocks.*
+pics/layers.*
+alpha/
+scratch.md
+api_test.py
+docs/hexes/examples.pspimage
